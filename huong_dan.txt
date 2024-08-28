@@ -1,0 +1,8 @@
+Trong lần đầu sử dụng:
+1, mở file python-3.9.12-amd64.exe => next next next liên tục để cài đặt
+2, chạy file setup.bat để cài đặt các thư viện cho dự án
+
+
+
+Sau khi cài đặt thành công và từ các lần chạy tiếp theo 
+để sử dụng: mở file run.bat và chọn folder chứa ảnh các bill, dữ liệu sẽ được xuất ra file bill.info
